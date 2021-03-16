@@ -8,7 +8,17 @@
   A Simple project to clarify initial concepts about React
 </h4>
 
-## :construction_worker: In construction
+## :information_source: How To Use
+
+```bash
+git clone https://github.com/felipe-jm/ignite-github-explorer.git
+
+cd ignite-github-explorer
+
+yarn
+
+yarn dev
+```
 
 ## :memo: License
 
